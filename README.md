@@ -3,9 +3,11 @@
 
 ## 今日算法题
 
-第四题：[回文数](https://github.com/DeronEndless/Daily-JS-Algorithms/issues/4)
+第五题：[有效的括号](https://github.com/DeronEndless/Daily-JS-Algorithms/issues/5)
 
 ## 历史
+
+第四题：[回文数](https://github.com/DeronEndless/Daily-JS-Algorithms/issues/4)
 
 第三题：[三数之和](https://github.com/DeronEndless/Daily-JS-Algorithms/issues/3)
 
