@@ -3,9 +3,11 @@
 
 ## 今日算法题
 
-第五题：[有效的括号](https://github.com/DeronEndless/Daily-JS-Algorithms/issues/5)
+第六题：[合并两个有序的链表](https://github.com/DeronEndless/Daily-JS-Algorithms/issues/6)
 
 ## 历史
+
+第五题：[有效的括号](https://github.com/DeronEndless/Daily-JS-Algorithms/issues/5)
 
 第四题：[回文数](https://github.com/DeronEndless/Daily-JS-Algorithms/issues/4)
 
