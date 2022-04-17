@@ -3,7 +3,7 @@
 
 ## 今日算法题
 
-第七题：[手写shallowEqual和deepEqual](https://github.com/DeronEndless/Daily-JS-Algorithms/issues/7)
+第七题：[最常见的单词](https://github.com/DeronEndless/Daily-JS-Algorithms/issues/7)
 
 ## 历史
 
