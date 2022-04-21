@@ -3,7 +3,7 @@
 
 ## 今日算法题
 
-第七题：[最常见的单词](https://github.com/DeronEndless/Daily-JS-Algorithms/issues/7)
+第七题：[最常见的单词](https://github.com/DeronEndless/Daily-JS-Algorithms/blob/master/record/mostCommonWord.js)
 
 ## 历史
 
